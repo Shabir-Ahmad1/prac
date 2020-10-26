@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  margin-left: 40px;
+  height: 4rem;
+  margin-top: 40px;
+  width: 10rem;
+}
+.icons {
+  position: absolute;
+  right: 0;
+}
+
+.distance {
+}
+
+.breaking {
+  width: 700px;
+  display: inline;
+  padding-bottom: 10px;
+  margin-left: 0;
+}
+
+.position {
+  display: inline;
+}
